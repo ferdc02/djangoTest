@@ -2,6 +2,9 @@
 import os
 import sys
 
+
+#Cambio para commit
+
 if __name__ == '__main__':
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'DJprueba.settings')
     try:
